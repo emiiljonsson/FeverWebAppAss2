@@ -1,0 +1,37 @@
+C:\Users\ejons\source\repos\Vending Machine\FeverWebApp\FeverWebApp\obj\Debug\net8.0\FeverWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ejons\source\repos\Vending Machine\FeverWebApp\FeverWebApp\obj\Debug\net8.0\FeverWebApp.AssemblyInfoInputs.cache
+C:\Users\ejons\source\repos\Vending Machine\FeverWebApp\FeverWebApp\obj\Debug\net8.0\FeverWebApp.AssemblyInfo.cs
+C:\Users\ejons\source\repos\Vending Machine\FeverWebApp\FeverWebApp\obj\Debug\net8.0\FeverWebApp.csproj.CoreCompileInputs.cache
+C:\Users\ejons\source\repos\Vending Machine\FeverWebApp\FeverWebApp\obj\Debug\net8.0\FeverWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ejons\source\repos\Vending Machine\FeverWebApp\FeverWebApp\obj\Debug\net8.0\FeverWebApp.RazorAssemblyInfo.cache
+C:\Users\ejons\source\repos\Vending Machine\FeverWebApp\FeverWebApp\obj\Debug\net8.0\FeverWebApp.RazorAssemblyInfo.cs
+C:\Users\ejons\source\repos\FeverWebApp\FeverWebApp\obj\Debug\net8.0\FeverWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ejons\source\repos\FeverWebApp\FeverWebApp\obj\Debug\net8.0\FeverWebApp.AssemblyInfoInputs.cache
+C:\Users\ejons\source\repos\FeverWebApp\FeverWebApp\obj\Debug\net8.0\FeverWebApp.AssemblyInfo.cs
+C:\Users\ejons\source\repos\FeverWebApp\FeverWebApp\obj\Debug\net8.0\FeverWebApp.csproj.CoreCompileInputs.cache
+C:\Users\ejons\source\repos\FeverWebApp\FeverWebApp\obj\Debug\net8.0\FeverWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ejons\source\repos\FeverWebApp\FeverWebApp\obj\Debug\net8.0\FeverWebApp.RazorAssemblyInfo.cache
+C:\Users\ejons\source\repos\FeverWebApp\FeverWebApp\obj\Debug\net8.0\FeverWebApp.RazorAssemblyInfo.cs
+C:\Users\ejons\source\repos\FeverWebApp\FeverWebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ejons\source\repos\FeverWebApp\FeverWebApp\bin\Debug\net8.0\appsettings.json
+C:\Users\ejons\source\repos\FeverWebApp\FeverWebApp\bin\Debug\net8.0\FeverWebApp.staticwebassets.runtime.json
+C:\Users\ejons\source\repos\FeverWebApp\FeverWebApp\bin\Debug\net8.0\FeverWebApp.exe
+C:\Users\ejons\source\repos\FeverWebApp\FeverWebApp\bin\Debug\net8.0\FeverWebApp.deps.json
+C:\Users\ejons\source\repos\FeverWebApp\FeverWebApp\bin\Debug\net8.0\FeverWebApp.runtimeconfig.json
+C:\Users\ejons\source\repos\FeverWebApp\FeverWebApp\bin\Debug\net8.0\FeverWebApp.dll
+C:\Users\ejons\source\repos\FeverWebApp\FeverWebApp\bin\Debug\net8.0\FeverWebApp.pdb
+C:\Users\ejons\source\repos\FeverWebApp\FeverWebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ejons\source\repos\FeverWebApp\FeverWebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ejons\source\repos\FeverWebApp\FeverWebApp\obj\Debug\net8.0\staticwebassets\msbuild.FeverWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ejons\source\repos\FeverWebApp\FeverWebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.FeverWebApp.props
+C:\Users\ejons\source\repos\FeverWebApp\FeverWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FeverWebApp.props
+C:\Users\ejons\source\repos\FeverWebApp\FeverWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FeverWebApp.props
+C:\Users\ejons\source\repos\FeverWebApp\FeverWebApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ejons\source\repos\FeverWebApp\FeverWebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ejons\source\repos\FeverWebApp\FeverWebApp\obj\Debug\net8.0\scopedcss\bundle\FeverWebApp.styles.css
+C:\Users\ejons\source\repos\FeverWebApp\FeverWebApp\obj\Debug\net8.0\scopedcss\projectbundle\FeverWebApp.bundle.scp.css
+C:\Users\ejons\source\repos\FeverWebApp\FeverWebApp\obj\Debug\net8.0\FeverWebApp.dll
+C:\Users\ejons\source\repos\FeverWebApp\FeverWebApp\obj\Debug\net8.0\refint\FeverWebApp.dll
+C:\Users\ejons\source\repos\FeverWebApp\FeverWebApp\obj\Debug\net8.0\FeverWebApp.pdb
+C:\Users\ejons\source\repos\FeverWebApp\FeverWebApp\obj\Debug\net8.0\FeverWebApp.genruntimeconfig.cache
+C:\Users\ejons\source\repos\FeverWebApp\FeverWebApp\obj\Debug\net8.0\ref\FeverWebApp.dll
